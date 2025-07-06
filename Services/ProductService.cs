@@ -11,7 +11,6 @@ namespace ProductsAPI.Services
         private readonly ProductRequestValidator _validator;
         private readonly IConfiguration _appSettings;
         private readonly int maxStock;
-        private List<string> changedFields = new List<string>();
 
         public ProductService(AppDbContext context, ProductRequestValidator validator, IConfiguration appSettings)
         {

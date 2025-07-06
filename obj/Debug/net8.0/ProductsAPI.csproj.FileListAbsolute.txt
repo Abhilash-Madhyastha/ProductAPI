@@ -174,3 +174,4 @@ C:\Users\91831\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\refint\Prod
 C:\Users\91831\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.pdb
 C:\Users\91831\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.genruntimeconfig.cache
 C:\Users\91831\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ref\ProductsAPI.dll
+C:\Users\91831\source\repos\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.sourcelink.json
